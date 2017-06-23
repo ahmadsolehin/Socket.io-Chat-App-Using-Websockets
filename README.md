@@ -1,7 +1,9 @@
 # Socket.io-Chat-App-Using-Websockets
 
- build a real-time chat application using socket.io, Node.js and Express.
- create a 2-way communication layer over websockets
+<li> build a real-time chat application using socket.io, Node.js and Express.
+</li>
+<li> create a 2-way communication layer over websockets
+</li>
 
 
 # screenshot
